@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Akdaulet Mnuarbek]
+# 👋 Hello! I'm *Akdaulet Mnuarbek*
 
 I am a data scientist with a passion for data analysis, machine learning, and developing projects that solve real-world problems. Currently, I am honing my skills and open to new opportunities.
 
@@ -7,7 +7,7 @@ I am a data scientist with a passion for data analysis, machine learning, and de
 | Course | Completion Date | School |
 | ------ | ----------------| -------|
 | Data Science Specialist (Advanced) | September 2024 | [nFactorial](https://www.nfactorial.school/) |
-| "Python: Machine Learning & Data Science | August 2024 | [Stepik](https://www.udemy.com/course/python-machine-learning-data-science-russian/?couponCode=SKILLS4SALEB) |
+| "Python: Machine Learning & Data Science | August 2024 | [UDEMY](https://www.udemy.com/course/python-machine-learning-data-science-russian/?couponCode=SKILLS4SALEB) |
 
 ## 📚 Currently Enrolled
 
