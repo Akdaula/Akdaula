@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello! I'm [Akdaulet Mnuarbek]
 
-<!--
-**Akdaula/Akdaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist with a passion for data analysis, machine learning, and developing projects that solve real-world problems. Currently, I am honing my skills and open to new opportunities.
 
-Here are some ideas to get you started:
+## 🏅 Completed Courses and Certificates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Course | Completion Date | School |
+| ------ | ----------------| -------|
+| Data Science Specialist (Advanced) | September 2024 | [nFactorial](https://www.nfactorial.school/) |
+| "Python: Machine Learning & Data Science | August 2024 | [Stepik](https://www.udemy.com/course/python-machine-learning-data-science-russian/?couponCode=SKILLS4SALEB) |
+
+## 📚 Currently Enrolled
+
+| Course | Year of Completion | School |
+| ------ | ------------------ | -------|
+| SQL | 2024 | [SQL Academy](https://sql-academy.org/en/guide) |
+
+## 💼 Portfolio
+
+| Project Name | Task | Skills & Tools |
+| ------------ | ---- | -------------- |
+| [Credit scoring ](https://github.com/Akdaula/credit_scoring) | Use gradient bousting models to determine credit scoring. | python, pandas, numpy, seaborn, matplotlib, sklearn, category_encoders, xgb , catboost |
+
+## 🛠 Skills
+
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Data Visualization:** Plotly, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Git, GitHub
+
+## 📫 Contact Me
+
+- **Email:** [akdauletmnuarbek@gmail.com](mailto:akdauletmnuarbek@gmail.com.com)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/akdaulet-mnuarbek-527944283/)
+- **GitHub:** [Akdaula GitHub](https://github.com/Akdaula)
+
