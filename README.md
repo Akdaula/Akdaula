@@ -8,12 +8,12 @@ I am a data scientist with a passion for data analysis, machine learning, and de
 | ------ | ----------------| -------|
 | Data Science Specialist (Advanced) | September 2024 | [nFactorial](https://www.nfactorial.school/) |
 | "Python: Machine Learning & Data Science | August 2024 | [UDEMY](https://www.udemy.com/course/python-machine-learning-data-science-russian/?couponCode=SKILLS4SALEB) |
+| SQL | August 2024 | [SQL Academy](https://sql-academy.org/en/guide) |
 
 ## 📚 Currently Enrolled
 
 | Course | Year of Completion | School |
 | ------ | ------------------ | -------|
-| SQL | 2024 | [SQL Academy](https://sql-academy.org/en/guide) |
 
 ## 💼 Portfolio
 
