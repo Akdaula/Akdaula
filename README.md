@@ -20,6 +20,7 @@ I am a data scientist with a passion for data analysis, machine learning, and de
 | Project Name | Task | Skills & Tools |
 | ------------ | ---- | -------------- |
 | [Credit scoring ](https://github.com/Akdaula/credit_scoring) | Use gradient bousting models to determine credit scoring. | python, pandas, numpy, seaborn, matplotlib, sklearn, category_encoders, xgb , catboost |
+| [Data-parsing ](https://github.com/Akdaula/Data-parsing/tree/main) | Parsing data to compare salaries in cities such as Moscow, St. Petersburg, Almaty, Kazakstan. | python, pandas, matplotlib, requests|
 
 ## 🛠 Skills
 
